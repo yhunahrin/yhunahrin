@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yhunahrin
-- 👀 I’m interested in C++, Python, Matlab
+- 👀 I’m interested in C++, C,  Python, Matlab
 - 🌱 I’m currently learning Deeplearning, 3D, image
 - 💞️ I’m looking to collaborate on all of DL, ML, Graphic or whatever with image
 - 📫 How to reach me here: thienlangliettruyen@gmail.com :D
